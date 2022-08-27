@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 I currently work as a full stack developer.
 
-<a href="https://www.linkedin.com/company/globalweb-com-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/company/globalweb-com-br/" target="_blank"> 🏢 </a>
 
 - 🌱 Studying: PHP, Laravel, Javascript, Python!
 <div align="center">
