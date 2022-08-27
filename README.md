@@ -1,9 +1,7 @@
 
 ### Hi! I'am Gabriel Teixeira 👋 🇧🇷
 - 😄 Pronouns: He/Him
-- 🔭 I currently work as a full stack developer.
-
-<a href="https://www.linkedin.com/company/globalweb-com-br/" target="_blank"> 🏢 </a>
+- 🔭 I currently work as a full stack developer. <a href="https://www.linkedin.com/company/globalweb-com-br/" target="_blank"> @globalwebcorp 🏢 </a>
 
 - 🌱 Studying: PHP, Laravel, Javascript, Python!
 <div align="center">
