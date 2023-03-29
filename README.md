@@ -5,9 +5,9 @@
 
 - 🌱 Studying: PHP, Laravel, Javascript, Python!
 <div align="center">
-  <a href="https://github.com/okgabes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=okgabes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgabes&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/gabrielfteixeira">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielfteixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfteixeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
