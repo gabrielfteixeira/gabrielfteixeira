@@ -31,9 +31,9 @@
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/gabrielfteixeira">
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfteixeira&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div>-->
  
