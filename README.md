@@ -11,6 +11,7 @@
 - 🔭 I currently work as a full stack developer. Please visit my LinkedIn profile.
 
 ##
+🛠 Language and tools
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
@@ -30,10 +31,17 @@
 </div>
 
 ##
-
+<div class="styles__Wrapper-sc-6dg9xf-1 bKMdyI">
+  <div direction="column" class="styles__Container-sc-1hmrn11-0 fZONfI">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfteixeira&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;order=2" alt="languages graph">  
+   
+   <img height="150" src="https://streak-stats.demolab.com?user=gabrielfteixeira&amp;locale=en&amp;mode=daily&amp;theme=dracula&amp;hide_border=false&amp;border_radius=5&amp;order=3" alt="streak graph">
+    
+  </div>
+</div>
 <!-- <div align="center">
   <a href="https://github.com/gabrielfteixeira">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfteixeira&layout=compact&langs_count=7&theme=dark"/>
-</div>-->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfteixeira&layout=compact&langs_count=7&theme=dark"/>
+</div> -->
  
