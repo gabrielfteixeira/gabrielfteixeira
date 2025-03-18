@@ -4,7 +4,7 @@ Full Stack Developer | Passionate about Web & Software Development
 
 
  <div align="center">
-  <a href="gabriel.teixeira009@gmail.com.br" target="_blank">
+  <a href="mailto:gabriel.teixeira009@gmail.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gabrielfteixeira/" target="_blank">
