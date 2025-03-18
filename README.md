@@ -1,14 +1,20 @@
 
-### Hi! I'am Gabriel Teixeira 👋 🇧🇷
-<div>
-  <a href = "mailto:gabriel.teixeira009@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="display: inline-block; border-radius: 8px; overflow: hidden;"></a>
-  <a href="https://www.linkedin.com/in/gabrielfteixeira/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="display: inline-block; border-radius: 8px; overflow: hidden;"></a> 
- </div>
- 
- 
-- 🌱 Studying: Java, PHP, Javascript, Python!
+### Hi, I'm Gabriel Teixeira! 👋 🇧🇷  
+Full Stack Developer | Passionate about Web & Software Development
 
-- 🔭 I currently work as a full stack developer. Please visit my LinkedIn profile.
+
+ <div align="center">
+  <a href="gabriel.teixeira009@gmail.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielfteixeira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+ 
+- 👨‍💻 I'm currently working as a full stack developer. Feel free to visit my LinkedIn profile for more details.
+- 📖 Currently improving my skills in Java, PHP, JavaScript, and Python.
+
 
 ##
 🛠 Language and tools
@@ -28,14 +34,12 @@
 </div>
 
 ##
-<div class="styles__Wrapper-sc-6dg9xf-1 bKMdyI">
-  <div direction="column" class="styles__Container-sc-1hmrn11-0 fZONfI">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfteixeira&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;order=2" alt="languages graph">  
-   
-   <img height="150" src="https://streak-stats.demolab.com?user=gabrielfteixeira&amp;locale=en&amp;mode=daily&amp;theme=dracula&amp;hide_border=false&amp;border_radius=5&amp;order=3" alt="streak graph">
-    
-  </div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfteixeira&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
 </div>
+
 <!-- <div align="center">
   <a href="https://github.com/gabrielfteixeira">
   
