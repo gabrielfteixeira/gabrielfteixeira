@@ -1,6 +1,6 @@
 
 ### Hi, I'm Gabriel Teixeira! 👋 🇧🇷  
-Full Stack Developer | Passionate about Web & Software Development
+Full Stack Developer | Software Development
 
 
  <div align="center">
