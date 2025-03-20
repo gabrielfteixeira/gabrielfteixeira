@@ -40,6 +40,10 @@ Full Stack Developer | Software Development
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfteixeira&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfteixeira&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
 <!-- <div align="center">
   <a href="https://github.com/gabrielfteixeira">
   
